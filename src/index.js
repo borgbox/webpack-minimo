@@ -2,6 +2,8 @@
 import sum from './sum';
 //import './image_viewer';
 
+import react from 'react';
+
 //Carregando o módulo de forma dinâmica sob demanda
 const button = document.createElement('button');
 button.innerText = 'Click me';
